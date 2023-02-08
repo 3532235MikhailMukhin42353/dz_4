@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Ycheba_4\zad_25\bin\Debug\net6.0\zad_25.exe
+C:\Users\User\Desktop\Ycheba_4\zad_25\bin\Debug\net6.0\zad_25.deps.json
+C:\Users\User\Desktop\Ycheba_4\zad_25\bin\Debug\net6.0\zad_25.runtimeconfig.json
+C:\Users\User\Desktop\Ycheba_4\zad_25\bin\Debug\net6.0\zad_25.dll
+C:\Users\User\Desktop\Ycheba_4\zad_25\bin\Debug\net6.0\zad_25.pdb
+C:\Users\User\Desktop\Ycheba_4\zad_25\obj\Debug\net6.0\zad_25.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Ycheba_4\zad_25\obj\Debug\net6.0\zad_25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Ycheba_4\zad_25\obj\Debug\net6.0\zad_25.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Ycheba_4\zad_25\obj\Debug\net6.0\zad_25.AssemblyInfo.cs
+C:\Users\User\Desktop\Ycheba_4\zad_25\obj\Debug\net6.0\zad_25.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Ycheba_4\zad_25\obj\Debug\net6.0\zad_25.dll
+C:\Users\User\Desktop\Ycheba_4\zad_25\obj\Debug\net6.0\refint\zad_25.dll
+C:\Users\User\Desktop\Ycheba_4\zad_25\obj\Debug\net6.0\zad_25.pdb
+C:\Users\User\Desktop\Ycheba_4\zad_25\obj\Debug\net6.0\zad_25.genruntimeconfig.cache
+C:\Users\User\Desktop\Ycheba_4\zad_25\obj\Debug\net6.0\ref\zad_25.dll
